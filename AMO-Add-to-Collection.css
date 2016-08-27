@@ -1,0 +1,5 @@
+@-moz-document domain('addons.mozilla.org') {
+	.addon-details .widgets {
+		display: block !important;
+	}
+}
